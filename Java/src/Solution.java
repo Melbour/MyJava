@@ -3,6 +3,8 @@ import java.util.Scanner;
 /**
  * Created by asus on 2017/9/21.
  */
+//在一个二维数组中，每一行从左到右递增，每一列从上到下递增。
+    //输入一个二维数组跟这样一个整数，看是否在该数组中
 public class Solution {
      static boolean Find(int target, int[][] array) {
 
